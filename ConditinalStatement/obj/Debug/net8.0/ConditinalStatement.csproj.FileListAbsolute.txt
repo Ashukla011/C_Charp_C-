@@ -1,0 +1,14 @@
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.AssemblyInfoInputs.cache
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.AssemblyInfo.cs
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.csproj.CoreCompileInputs.cache
+D:\Self Learning\C_Charp\ConditinalStatement\bin\Debug\net8.0\ConditinalStatement.exe
+D:\Self Learning\C_Charp\ConditinalStatement\bin\Debug\net8.0\ConditinalStatement.deps.json
+D:\Self Learning\C_Charp\ConditinalStatement\bin\Debug\net8.0\ConditinalStatement.runtimeconfig.json
+D:\Self Learning\C_Charp\ConditinalStatement\bin\Debug\net8.0\ConditinalStatement.dll
+D:\Self Learning\C_Charp\ConditinalStatement\bin\Debug\net8.0\ConditinalStatement.pdb
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.dll
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\refint\ConditinalStatement.dll
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.pdb
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ConditinalStatement.genruntimeconfig.cache
+D:\Self Learning\C_Charp\ConditinalStatement\obj\Debug\net8.0\ref\ConditinalStatement.dll

@@ -1,0 +1,14 @@
+D:\Self Learning\C_Charp\BasicVariable\bin\Debug\net8.0\BasicVariable.exe
+D:\Self Learning\C_Charp\BasicVariable\bin\Debug\net8.0\BasicVariable.deps.json
+D:\Self Learning\C_Charp\BasicVariable\bin\Debug\net8.0\BasicVariable.runtimeconfig.json
+D:\Self Learning\C_Charp\BasicVariable\bin\Debug\net8.0\BasicVariable.dll
+D:\Self Learning\C_Charp\BasicVariable\bin\Debug\net8.0\BasicVariable.pdb
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.AssemblyInfoInputs.cache
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.AssemblyInfo.cs
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.csproj.CoreCompileInputs.cache
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.dll
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\refint\BasicVariable.dll
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.pdb
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\BasicVariable.genruntimeconfig.cache
+D:\Self Learning\C_Charp\BasicVariable\obj\Debug\net8.0\ref\BasicVariable.dll
