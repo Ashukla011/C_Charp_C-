@@ -1,0 +1,15 @@
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.sourcelink.json
+D:\Self Learning\C_Charp\Loops\bin\Debug\net8.0\Loops.exe
+D:\Self Learning\C_Charp\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\Self Learning\C_Charp\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\Self Learning\C_Charp\Loops\bin\Debug\net8.0\Loops.dll
+D:\Self Learning\C_Charp\Loops\bin\Debug\net8.0\Loops.pdb
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.dll
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.pdb
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\Self Learning\C_Charp\Loops\obj\Debug\net8.0\ref\Loops.dll

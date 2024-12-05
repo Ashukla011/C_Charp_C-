@@ -1,0 +1,15 @@
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.sourcelink.json
+D:\Self Learning\C_Charp\Array\bin\Debug\net8.0\Array.exe
+D:\Self Learning\C_Charp\Array\bin\Debug\net8.0\Array.deps.json
+D:\Self Learning\C_Charp\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\Self Learning\C_Charp\Array\bin\Debug\net8.0\Array.dll
+D:\Self Learning\C_Charp\Array\bin\Debug\net8.0\Array.pdb
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.dll
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\refint\Array.dll
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.pdb
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\Self Learning\C_Charp\Array\obj\Debug\net8.0\ref\Array.dll
